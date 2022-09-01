@@ -194,6 +194,16 @@ h1 {
   margin: auto;
 }
 
+.attribution { 
+  margin: 109px;
+  font-size: 11px; 
+  text-align: center; 
+  color: #fff; 
+  text-transform: uppercase;
+}
+
+.attribution a { color: hsl(228, 45%, 44%); }
+
 .social {
   position: absolute;
   bottom: 56px;
